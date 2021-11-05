@@ -71,7 +71,9 @@ body {
 
 .card-body .plan {
     margin: 2em 0 1em 0;
-    padding: 0 0.75em;
+    padding: .5em 0.75em;
+    background-color: var(--very-pale-blue);
+    border-radius: 10px;
 }
 
 .card-body .plan img {
